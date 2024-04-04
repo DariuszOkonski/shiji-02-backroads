@@ -20,8 +20,8 @@ function Footer() {
           </a>
         </li>
         <li>
-          <a href='#featured' className='footer-link'>
-            featured
+          <a href='#tours' className='footer-link'>
+            tours
           </a>
         </li>
       </ul>
